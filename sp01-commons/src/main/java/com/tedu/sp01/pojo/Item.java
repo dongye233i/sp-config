@@ -13,7 +13,5 @@ public class Item {
 	private Integer id;
 	private String name;
 	private Integer number;
-	//1111111111
-	//333333333
-	//22222222
+	
 }
